@@ -44,7 +44,7 @@ Source: *[add dataset source / credit here]*
 2. **Revenue peaks around festivals.** 86% of August's ₹7.37 L comes from Raksha Bandhan, and Valentine's Day leads February (₹7.05 L). March and November peak with Holi and Diwali.
 3. **Anniversary (₹6.75 L) and Raksha Bandhan (₹6.32 L)** are the biggest occasions.
 4. **Magnam Set (₹1.22 L)** is the top product; **Imphal (₹1.26 L)** is the top city.
-5. **Order size doesn't affect delivery time** (r = 0.00). One-item and five-item orders both take about 5.5 days, so delays come from other factors.
+5. **Order size doesn't affect delivery time** (r = 0.00). The observed linear correlation between order size and delivery time is approximately zero. Further analysis by city, occasion, and order date is needed to investigate other potential drivers of delivery delays.
 
 ## Recommendations
 
