@@ -14,8 +14,6 @@ An interactive Excel dashboard analysing 1,000 gift orders from 2023, using a sy
 
 ## Dataset
 
-Synthetic sample data in three CSV files (`Data/`):
-
 | File | Rows | Contents |
 |---|---|---|
 | `orders.csv` | 1,000 | Order and delivery dates/times, quantity, city, occasion |
